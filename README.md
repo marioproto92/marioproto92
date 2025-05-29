@@ -30,6 +30,17 @@ Experienced in building AI-powered tools, civic transparency platforms, threat i
 
 ---
 
+#### 📚 Cybersecurity Lessons from `secinfoita.github.io`
+
+- [🧠 Introduction to sandbox bypass techniques](https://marioproto92.github.io/secinfoita.github.io/posts/macos_sandbox_bypass/)
+- [🕵️ Memory execution and function hooking](https://marioproto92.github.io/secinfoita.github.io/posts/shellcode_hooking_memory/)
+- [🔧 Antivirus evasion using UUID obfuscation](https://marioproto92.github.io/secinfoita.github.io/posts/uuid_shellcode_loader/)
+- [🧪 Windows persistence and registry abuse](https://marioproto92.github.io/secinfoita.github.io/posts/windows_registry_persistence/)
+- [🚩 YARA rule crafting for memory detection](https://marioproto92.github.io/secinfoita.github.io/posts/yara_memory_detection/)
+- [📊 IOC automation and integration with STIX 2.1](https://marioproto92.github.io/secinfoita.github.io/posts/stix_ioc_auto/)
+
+---
+
 ## 🚀 Tech Stack
 
 **Languages:** `Python`, `Java`, `C++`, `Bash`, `VB.NET`, `JavaScript`
