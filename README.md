@@ -20,7 +20,7 @@ Experienced in building AI-powered tools, civic transparency platforms, threat i
 
 | Project | Description | Badges |
 |--------|-------------|--------|
-| [`uuid-shell-loader`](https://github.com/marioproto92) | Loader for in-memory shellcode via UUID obfuscation | `RedTeam` `AV Bypass` `MemoryLoader` |
+| [`uuid-shell-loader`](https://github.com/marioproto92/malwareobs/blob/main/shellcode_uuid4_obfuscation.md) | Loader for in-memory shellcode via UUID obfuscation | `RedTeam` `AV Bypass` `MemoryLoader` |
 | `mitre-ai-agent` | LangChain agent to interact with STIX 2.1 threat intelligence | `LangGraph` `MongoDB` `RAG` |
 | [`openPA-crawler`](https://github.com/marioproto92/openpa-crawler) | Scraping engine for Italian public tenders (CUP, CIG, Albo Pretorio) | `OSINT` `PDF OCR` `Streamlit Dashboard` |
 | `brindisileaks` | Anonymous reporting platform using Tor + OCR | `Whistleblowing` `SecureDrop` `Activism` |
