@@ -45,36 +45,46 @@ Experienced in building AI-powered tools, civic transparency platforms, threat i
 
 #### 📚 Cybersecurity Lessons from `secinfoita.github.io`
 
-- [🧠 Introduction to sandbox bypass techniques](https://marioproto92.github.io/secinfoita.github.io/posts/macos_sandbox_bypass/)
-- [🕵️ Memory execution and function hooking](https://marioproto92.github.io/secinfoita.github.io/posts/shellcode_hooking_memory/)
-- [🔧 Antivirus evasion using UUID obfuscation](https://marioproto92.github.io/secinfoita.github.io/posts/uuid_shellcode_loader/)
-- [🧪 Windows persistence and registry abuse](https://marioproto92.github.io/secinfoita.github.io/posts/windows_registry_persistence/)
-- [🚩 YARA rule crafting for memory detection](https://marioproto92.github.io/secinfoita.github.io/posts/yara_memory_detection/)
-- [📊 IOC automation and integration with STIX 2.1](https://marioproto92.github.io/secinfoita.github.io/posts/stix_ioc_auto/)
-- [📡 Local Network Scanner in Python](https://marioproto92.github.io/secinfoita.github.io/posts/local_network_scanner/)
-- [🖨️ Printer Enumeration via SNMP](https://marioproto92.github.io/secinfoita.github.io/posts/printer_snmp_scan/)
-- [🐚 Command & Control Bot with Async Socket](https://marioproto92.github.io/secinfoita.github.io/posts/async_c2_bot/)
-- [📥 Custom Downloader with Stealth Features](https://marioproto92.github.io/secinfoita.github.io/posts/python_stealth_downloader/)
-- [🧼 File & User Cleaner Module](https://marioproto92.github.io/secinfoita.github.io/posts/cleaner_module/)
-- [📡 Advanced Scanner Admin Panel](https://marioproto92.github.io/secinfoita.github.io/posts/scanner_admin_panel/)
-- [🔐 OWA Brute-force Engine](https://marioproto92.github.io/secinfoita.github.io/posts/owa_bruteforce/)
-- [🐾 Credential & AD Dump Module](https://marioproto92.github.io/secinfoita.github.io/posts/ad_user_dumper/)
-- [📦 Crypter Builder Design](https://marioproto92.github.io/secinfoita.github.io/posts/crypter_builder/)
-- [🧬 Modular Spreader Architecture](https://marioproto92.github.io/secinfoita.github.io/posts/spreader_modular_loader/)
-- [🗝️ Cookie Grabber Module](https://marioproto92.github.io/secinfoita.github.io/posts/cookie_grabber/)
-- [🔐 File Search by Keywords](https://marioproto92.github.io/secinfoita.github.io/posts/file_keyword_search/)
-- [🕸️ Lightweight Bot Framework](https://marioproto92.github.io/secinfoita.github.io/posts/lightweight_modular_bot/)
-- [🗂️ VPN Client & Admin Panel](https://marioproto92.github.io/secinfoita.github.io/posts/vpn_client_admin/)
-- [🧾 Manual Activation Loader & Bot Link](https://marioproto92.github.io/secinfoita.github.io/posts/manual_payload_activation/)
-- [🌐 Masscan Porting](https://marioproto92.github.io/secinfoita.github.io/posts/masscan_porting/)
-- [💾 Simple Cryptolocker](https://marioproto92.github.io/secinfoita.github.io/posts/simple_cryptolocker/)
-- [🧬 Polymorphic Asm Processor](https://marioproto92.github.io/secinfoita.github.io/posts/polymorphic_asm/)
-- [🧰 Superbrowser Operator Guide](https://marioproto92.github.io/secinfoita.github.io/posts/superbrowser_manual/)
-- [🔄 RDP Scanner with Python](https://marioproto92.github.io/secinfoita.github.io/posts/rdp_scanner/)
-- [🔐 SQL Injection Scanner](https://marioproto92.github.io/secinfoita.github.io/posts/sql_injection_scanner/)
-- [📎 Operator Guide to Backdoor](https://marioproto92.github.io/secinfoita.github.io/posts/backdoor_operator_manual/)
-- [🕸️ Async Backconnect Server](https://marioproto92.github.io/secinfoita.github.io/posts/backconnect_server/)
-- [🧩 VPN Bridge and Routing Architecture](https://marioproto92.github.io/secinfoita.github.io/posts/vpn_bridge_architecture/)
+- [🧠 Introduction to sandbox bypass techniques](https://marioproto92.github.io/secinfoita.github.io/posts/macos_sandbox_bypass/) - on request
+- [🕵️ Memory execution and function hooking](https://marioproto92.github.io/secinfoita.github.io/posts/shellcode_hooking_memory/) - on request
+- [🔧 Antivirus evasion using UUID obfuscation](https://marioproto92.github.io/secinfoita.github.io/posts/uuid_shellcode_loader/) - on request
+- [🧪 Windows persistence and registry abuse](https://marioproto92.github.io/secinfoita.github.io/posts/windows_registry_persistence/) - on request
+- [🚩 YARA rule crafting for memory detection](https://marioproto92.github.io/secinfoita.github.io/posts/yara_memory_detection/) - on request
+- [📊 IOC automation and integration with STIX 2.1](https://marioproto92.github.io/secinfoita.github.io/posts/stix_ioc_auto/) - on request
+- [📡 Local Network Scanner in Python](https://marioproto92.github.io/secinfoita.github.io/posts/local_network_scanner/) - on request
+- [🖨️ Printer Enumeration via SNMP](https://marioproto92.github.io/secinfoita.github.io/posts/printer_snmp_scan/) - on request
+- [🐚 Command & Control Bot with Async Socket](https://marioproto92.github.io/secinfoita.github.io/posts/async_c2_bot/) - on request
+- [📥 Custom Downloader with Stealth Features](https://marioproto92.github.io/secinfoita.github.io/posts/python_stealth_downloader/) - on request
+- [🧼 File & User Cleaner Module](https://marioproto92.github.io/secinfoita.github.io/posts/cleaner_module/) - on request
+- [📡 Advanced Scanner Admin Panel](https://marioproto92.github.io/secinfoita.github.io/posts/scanner_admin_panel/) - on request
+- [🔐 OWA Brute-force Engine](https://marioproto92.github.io/secinfoita.github.io/posts/owa_bruteforce/) - on request
+- [🐾 Credential & AD Dump Module](https://marioproto92.github.io/secinfoita.github.io/posts/ad_user_dumper/) - on request
+- [📦 Crypter Builder Design](https://marioproto92.github.io/secinfoita.github.io/posts/crypter_builder/) - on request
+- [🧬 Modular Spreader Architecture](https://marioproto92.github.io/secinfoita.github.io/posts/spreader_modular_loader/) - on request
+- [🗝️ Cookie Grabber Module](https://marioproto92.github.io/secinfoita.github.io/posts/cookie_grabber/) - on request
+- [🔐 File Search by Keywords](https://marioproto92.github.io/secinfoita.github.io/posts/file_keyword_search/) - on request
+- [🕸️ Lightweight Bot Framework](https://marioproto92.github.io/secinfoita.github.io/posts/lightweight_modular_bot/) - on request
+- [🗂️ VPN Client & Admin Panel](https://marioproto92.github.io/secinfoita.github.io/posts/vpn_client_admin/) - on request
+- [🧾 Manual Activation Loader & Bot Link](https://marioproto92.github.io/secinfoita.github.io/posts/manual_payload_activation/) - on request
+- [🌐 Masscan Porting](https://marioproto92.github.io/secinfoita.github.io/posts/masscan_porting/) - on request
+- [💾 Simple Cryptolocker](https://marioproto92.github.io/secinfoita.github.io/posts/simple_cryptolocker/) - on request
+- [🧬 Polymorphic Asm Processor](https://marioproto92.github.io/secinfoita.github.io/posts/polymorphic_asm/) - on request
+- [🧰 Superbrowser Operator Guide](https://marioproto92.github.io/secinfoita.github.io/posts/superbrowser_manual/) - on request
+- [🔄 RDP Scanner with Python](https://marioproto92.github.io/secinfoita.github.io/posts/rdp_scanner/) - on request
+- [🔐 SQL Injection Scanner](https://marioproto92.github.io/secinfoita.github.io/posts/sql_injection_scanner/) - on request
+- [📎 Operator Guide to Backdoor](https://marioproto92.github.io/secinfoita.github.io/posts/backdoor_operator_manual/) - on request
+- [🕸️ Async Backconnect Server](https://marioproto92.github.io/secinfoita.github.io/posts/backconnect_server/) - on request
+- [🧩 VPN Bridge and Routing Architecture](https://marioproto92.github.io/secinfoita.github.io/posts/vpn_bridge_architecture/) - on request
+- [🧩 Payload Injection in `.text`](https://github.com/marioproto92/secinfoita.github.io/blob/gh-pages/lezione1_payload_text.md)
+- [🧩 Process Enumeration Techniques](https://github.com/marioproto92/secinfoita.github.io/blob/gh-pages/lezione2_enumerazione_processi.md)
+- [🧩 Network Scanning and Service Exposure](https://github.com/marioproto92/secinfoita.github.io/blob/gh-pages/lezione_3_scansione_di_rete_rischi_esposizione_e_difesa_dei_servizi.md)
+- [🧩 Silent Siphon: Stealth Data Exfiltration](https://github.com/marioproto92/secinfoita.github.io/blob/gh-pages/lezione4_silent_siphon.md)
+- [🧩 SimLab Ransomware Simulation](https://github.com/marioproto92/secinfoita.github.io/blob/gh-pages/lezione5_SimLab_Ransom.md)
+- [🧩 Full Extraction Techniques](https://github.com/marioproto92/secinfoita.github.io/blob/gh-pages/lezione6_ful_extraction.md)
+- [🧩 PoC: Bypass Windows Security Center](https://github.com/marioproto92/secinfoita.github.io/blob/gh-pages/lezione7_poc_bypass_WSC.md)
+- [🧩 Shellcode UUID4 Obfuscation Loader](https://github.com/marioproto92/malwareobs/blob/main/shellcode_uuid4_obfuscation.md)
+- [🧩 macOS Sandbox Detection and Bypass](https://github.com/marioproto92/malwareobs/blob/main/macos-sandbox_bypass_profile.md)
+- [🧩 Lumma Stealer Campaign (Analysis Folder)](https://github.com/marioproto92/malwareobs/tree/main/lumma_stealer)
 
 ---
 
