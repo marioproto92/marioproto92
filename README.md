@@ -20,6 +20,7 @@ Experienced in building AI-powered tools, civic transparency platforms, threat i
 
 | Project | Description | Badges |
 |--------|-------------|--------|
+| [`kali_gpt_clone`](https://github.com/marioproto92/kali_gpt_clone) | Fully functional clone of Kali GPT assistant, reverse engineered from the original by XIS10CIAL; includes system prompt, function tools, and original knowledge base (incl. Daniel W. Dieterle’s work) | `RedTeam` `OffensiveSecurity` `AI Assistant` `KaliLinux` `GPT4` `FunctionCalling` |
 | [`uuid-shell-loader`](https://github.com/marioproto92/malwareobs/blob/main/shellcode_uuid4_obfuscation.md) | Loader for in-memory shellcode via UUID obfuscation | `RedTeam` `AV Bypass` `MemoryLoader` |
 | `mitre-ai-agent` | LangChain agent to interact with STIX 2.1 threat intelligence | `LangGraph` `MongoDB` `RAG` |
 | [`openPA-crawler`](https://github.com/marioproto92/openpa-crawler) | Scraping engine for Italian public tenders (CUP, CIG, Albo Pretorio) | `OSINT` `PDF OCR` `Streamlit Dashboard` |
