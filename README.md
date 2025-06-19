@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/674621/191389888-3d13a4e6-e4b2-44ae-b9c8-1703fb01b3f6.png" width="600"/>
+  <img src="https://github.com/user-attachments/assets/e6a9ea31-4409-4d42-9b48-0d36fff35ce0" width="600"/>
   
   # DeBuG: Ethical Hacker & Civic Technologist
   _Hacking for truth, transparency, and tech empowerment._
