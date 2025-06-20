@@ -20,6 +20,7 @@ Experienced in building AI-powered tools, civic transparency platforms, threat i
 
 | Project | Description | Badges |
 |--------|-------------|--------|
+| [`cavehunter`](https://github.com/marioproto92/cavehunter) | Python tool to identify and extract code caves from Windows PE files for stealthy payload injection and red team operations | `RedTeam` `PE` `CodeCaves` `Shellcode` `PostExploitation` `Evasion` |
 | [`dns_c2_architecture_ed25519`](https://github.com/marioproto92/dns_c2_architecture_ed25519) | Stealth-oriented DNS-based C2 framework I designed, featuring time-variant DGA labels, Ed25519-signed TXT payloads, sandbox-aware segmentation, and a registrar/client toolset for Red Team and APT-style simulations | `RedTeam` `APT` `DNSC2` `Ed25519` `StealthOps` `CustomC2` |
 | [`kali_gpt_clone`](https://github.com/marioproto92/kali_gpt_clone) | Fully functional clone of Kali GPT assistant, reverse engineered from the original by XIS10CIAL; includes system prompt, function tools, and original knowledge base (incl. Daniel W. Dieterle’s work) | `RedTeam` `OffensiveSecurity` `AI Assistant` `KaliLinux` `GPT4` `FunctionCalling` |
 | [`uuid-shell-loader`](https://github.com/marioproto92/malwareobs/blob/main/shellcode_uuid4_obfuscation.md) | Loader for in-memory shellcode via UUID obfuscation | `RedTeam` `AV Bypass` `MemoryLoader` |
