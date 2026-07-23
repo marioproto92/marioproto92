@@ -43,6 +43,7 @@ Experienced in building AI-powered tools, civic transparency platforms, threat i
 | `CUP Extractor & API Enricher` | Regex-based CUP extractor from MongoDB docs with OpenCUP API integration | `MongoDB` `Regex` `OpenCUP API` `Public Spending` `Tender Linkage` `🗃️ Document Intelligence` `Python` |
 | `CUP Extractor (Basic)` | Extracts CUP codes using regex from MongoDB and stores them | `MongoDB` `Regex` `Public Spending` `🗃️ Document Intelligence` `Python` |
 | `ANAC Dataset Downloader` | Script to interact with CKAN API, download and extract public datasets from ANAC | `Python` `CKAN` `SSL` `Dataset Automation` `OpenData` `🗃️ Document Intelligence` |
+| [`streamyard-downloader`](https://github.com/marioproto92/streamyard-downloader) | CLI tool that opens a StreamYard watch page in headless Chromium, intercepts the signed `.mp4` URL, reads its expiry date, and downloads it via yt-dlp | `Python` `Playwright` `yt-dlp` `Headless Browser` `Scraping` `Automation` |
 
 ---
 
